@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app.ebc37b2a.js";const a={},r=o("iframe",{style:{width:"calc( 100% - 2.5rem )",height:"calc( 100vh - 90px )"},src:"https://pablezhang.github.io/todo-mvc/",frameborder:"0"},null,-1),s=[r];function n(_,l){return t(),c("div",null,s)}const d=e(a,[["render",n],["__file","index.html.vue"]]);export{d as default};
